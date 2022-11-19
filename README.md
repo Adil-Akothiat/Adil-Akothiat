@@ -1,4 +1,4 @@
-<h1 style='text-align: center;'>Hi 👋, I'm Adil Akothiat<h1>
+<h1 align='center'>Hi 👋, I'm Adil Akothiat</h1>
 <hr>
 - 👨‍💻 All my project are available on [https://github.com/Adil-Akothiat?tab=repositories](url)
 - 👀 I’m interested in Web developement 
