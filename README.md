@@ -12,7 +12,7 @@
 - 📫 How to reach me **adilakothiat@outlook.com**
 
 <h3>Connect With Me On </h3>
-<a href='https://www.instagram.com/adilakothiat01/'><img src='https://img.icons8.com/fluency/512/instagram-new.png' alt='adilakothiat01'/></a>
+<a href='https://www.instagram.com/adilakothiat01/'><img src='https://img.icons8.com/fluency/512/instagram-new.png' alt='adilakothiat01' height='30' width='30'/></a>
 
 <!---
 Adil-Akothiat/Adil-Akothiat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
