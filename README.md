@@ -16,6 +16,8 @@
 <a href='https://www.linkedin.com/in/adil-akothiat-560674221/'><img src='https://img.icons8.com/fluency/512/linkedin.png' alt='adilakothiat01' height='50' width='50'/></a>
 
 <strong>Portfolio: </strong><a href='https://adilcode.netlify.app/'>🔗Link<a/>
+<br>
+  <strong>Read My Articles : </strong><a href='https://adilcodeblog.netlify.app/'>🔗Link</a>
   
 <!---
 Adil-Akothiat/Adil-Akothiat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
