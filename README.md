@@ -4,9 +4,7 @@
 
 - 👀 I’m interested in Web developement 
 
-- 🌱 I’m currently learning **React** 
-
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT**
 
 - 📫 How to reach me **adilakothiat@outlook.com**
 
