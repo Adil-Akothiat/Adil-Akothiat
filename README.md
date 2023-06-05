@@ -1,6 +1,6 @@
 <h1 align='center'>Hi 👋, I'm Adil Akothiat</h1>
 
-- 👨‍💻 All my project are available on [https://github.com/Adil-Akothiat?tab=repositories](url)
+- 👨‍💻 All my project are available on Repositories section.
 
 - 👀 I’m interested in Web developement 
 
