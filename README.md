@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web developement 
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON, PHP, REACT, NEXT.JS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PYTHON, PHP, REACT, NEXT.JS, PHP, TAILWIND, BOOTSTRAP**
 
 - 📫 How to reach me **adilakothiat@outlook.com**
 
