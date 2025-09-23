@@ -21,7 +21,7 @@
 <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
 <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"/>
 <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
-<img src="https://img.icons8.com/color/48/laravel.png" alt="Laravel"/>
+<img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" alt="Laravel"/>
 <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
 <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/>
 <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
